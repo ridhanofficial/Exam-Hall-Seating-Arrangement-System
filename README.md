@@ -1,6 +1,20 @@
 <div align="center">
 
 # 🎓 Exam Hall Seating Arrangement System
+
+[![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**A sophisticated, enterprise-grade web application designed to streamline exam hall management and automated seating arrangements for educational institutions.**
+
+[🌐 **Live Demo**](https://pi-tech.likesyou.org/) 
+
+---
+
+</div>
+
 ---
 
 ## 🌐 Live Demonstration
@@ -53,19 +67,6 @@
 </div>
 
 ---
-
-[![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-**A sophisticated, enterprise-grade web application designed to streamline exam hall management and automated seating arrangements for educational institutions.**
-
-[🌐 **Live Demo**](https://pi-tech.likesyou.org/) • [📖 **Documentation**](#-usage-guide) • [🚀 **Quick Start**](#️-installation--setup) • [💬 **Support**](#-support)
-
----
-
-</div>
 
 ## ✨ Key Highlights
 
