@@ -18,18 +18,39 @@
 
 ## ✨ Features
 
-- **Admin Panel**: Manage students, rooms, subjects & seat allocation
-- **Student Portal**: View seat assignments & exam schedules  
-- **Automation**: Smart seat allocation algorithms
-- **Reports**: PDF generation for seating charts
-- **Security**: Role-based access with session management
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💼 **Admin Panel**
+- Student & class management
+- Room & subject configuration
+- Automated seat allocation
+- PDF report generation
+- Real-time dashboard
+
+</td>
+<td width="50%">
+
+### 👨‍🎓 **Student Portal**
+- View seat assignments
+- Check exam schedules
+- Account management
+- Mobile responsive
+- Real-time updates
+
+</td>
+</tr>
+</table>
 
 
-## 🛠️ Tech Stack
+## 🛠️ Technology
 
-- **Backend**: PHP 7.4+, MySQL
-- **Frontend**: Bootstrap 4, HTML5, CSS3
+- **Frontend**: HTML5, CSS3, Bootstrap 4
+- **Backend**: PHP 7.4+
+- **Database**: MySQL/MariaDB
 - **Reports**: FPDF Library
+
 
 ## 🌐 Live Demo
 
@@ -43,6 +64,7 @@
 | Role | Login | Password | Access |
 |------|-------|----------|---------|
 | **👨‍💼 Admin** | `Admin1002` | `root12` | Full system management |
+
 
 
 ## 🚀 Installation
