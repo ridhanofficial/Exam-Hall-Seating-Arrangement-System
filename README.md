@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 🌐 Live Demonstration
 
 ### 🖥️ **Experience the System Live**
