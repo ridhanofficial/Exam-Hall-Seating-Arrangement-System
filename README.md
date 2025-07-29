@@ -33,15 +33,10 @@
 
 ## 🌐 Live Demo
 
-<div align="center">
-
-### 🖥️ **Try the System Live**
-
 [![Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-success?style=for-the-badge)](https://pi-tech.likesyou.org/)
 
 **🔗 Demo URL**: [https://pi-tech.likesyou.org/](https://pi-tech.likesyou.org/)
 
-</div>
 
 ### 🎯 Demo Access Credentials
 
