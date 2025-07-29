@@ -1,6 +1,58 @@
 <div align="center">
 
 # 🎓 Exam Hall Seating Arrangement System
+---
+
+## 🌐 Live Demonstration
+
+<div align="center">
+
+### 🖥️ **Experience the System Live**
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-success?style=for-the-badge&logo=internet-explorer)](https://pi-tech.likesyou.org/)
+
+**🔗 Demo URL**: [https://pi-tech.likesyou.org/](https://pi-tech.likesyou.org/)
+
+</div>
+
+### 🎮 Demo Access Credentials
+
+<table align="center">
+<tr>
+<th width="50%">👨‍💼 Administrator Portal</th>
+<th width="50%">👨‍🎓 Student Portal</th>
+</tr>
+<tr>
+<td>
+
+**Username**: `Admin1002`<br>
+**Password**: `root12`
+
+✅ Full administrative privileges<br>
+✅ Complete system management<br>
+✅ Real-time data manipulation
+
+</td>
+<td>
+
+**Access**: Demo database students<br>
+**Inquiry**: Contact system administrator
+
+✅ View personal seat assignments<br>
+✅ Check exam schedules<br>
+✅ Update account preferences
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 📝 **Note**: Demo environment resets periodically. All changes are temporary for demonstration purposes.
+
+</div>
+
+---
 
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -295,59 +347,6 @@ sudo chown www-data:www-data /var/lib/php/sessions
 > ⚠️ **Security Notice**: Change default credentials immediately after installation
 
 </div>
-
----
-
-## 🌐 Live Demonstration
-
-<div align="center">
-
-### 🖥️ **Experience the System Live**
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-success?style=for-the-badge&logo=internet-explorer)](https://pi-tech.likesyou.org/)
-
-**🔗 Demo URL**: [https://pi-tech.likesyou.org/](https://pi-tech.likesyou.org/)
-
-</div>
-
-### 🎮 Demo Access Credentials
-
-<table align="center">
-<tr>
-<th width="50%">👨‍💼 Administrator Portal</th>
-<th width="50%">👨‍🎓 Student Portal</th>
-</tr>
-<tr>
-<td>
-
-**Username**: `Admin1002`<br>
-**Password**: `root12`
-
-✅ Full administrative privileges<br>
-✅ Complete system management<br>
-✅ Real-time data manipulation
-
-</td>
-<td>
-
-**Access**: Demo database students<br>
-**Inquiry**: Contact system administrator
-
-✅ View personal seat assignments<br>
-✅ Check exam schedules<br>
-✅ Update account preferences
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> 📝 **Note**: Demo environment resets periodically. All changes are temporary for demonstration purposes.
-
-</div>
-
----
 
 ## 📖 Comprehensive User Guide
 
