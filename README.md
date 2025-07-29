@@ -23,7 +23,7 @@
 - **Automation**: Smart seat allocation algorithms
 - **Reports**: PDF generation for seating charts
 - **Security**: Role-based access with session management
-- 
+
 
 ## 🛠️ Tech Stack
 
