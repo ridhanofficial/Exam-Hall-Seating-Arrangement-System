@@ -19,15 +19,12 @@
 
 ## 🌐 Live Demonstration
 
-<div align="center">
-
 ### 🖥️ **Experience the System Live**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-success?style=for-the-badge&logo=internet-explorer)](https://pi-tech.likesyou.org/)
 
 **🔗 Demo URL**: [https://pi-tech.likesyou.org/](https://pi-tech.likesyou.org/)
 
-</div>
 
 ### 🎮 Demo Access Credentials
 
