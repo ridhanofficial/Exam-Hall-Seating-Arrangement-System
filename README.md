@@ -43,7 +43,7 @@
 </tr>
 </table>
 
-
+<br>
 
 
 ## 🛠️ Technology
@@ -53,6 +53,7 @@
 - **Database**: MySQL/MariaDB
 - **Reports**: FPDF Library
 
+<br>
 
 ## 🌐 Live Demo
 
@@ -67,7 +68,7 @@
 |------|-------|----------|---------|
 | **👨‍💼 Admin** | `Admin1002` | `root12` | Full system management |
 
-
+<br>
 
 ## 🚀 Installation
 
@@ -87,12 +88,14 @@
 
 4. **Install FPDF** - Run `yoursite.com/install_fpdf.php` or download from [fpdf.org](http://www.fpdf.org)
 
+<br>
 
 ## 📖 Usage
 
 **Admin**: Login → Manage students/rooms → Allocate seats → Generate reports  
 **Student**: Login → View seat assignment → Check schedule
 
+<br>
 
 ## 🔒 Security
 
