@@ -23,6 +23,7 @@
 - **Automation**: Smart seat allocation algorithms
 - **Reports**: PDF generation for seating charts
 - **Security**: Role-based access with session management
+- 
 
 ## 🛠️ Tech Stack
 
@@ -36,17 +37,19 @@
 
 **🔗 URL**: [https://pi-tech.likesyou.org/](https://pi-tech.likesyou.org/)
 
+
 ### 🔑 Demo Credentials
 
 | Role | Login | Password | Access |
 |------|-------|----------|---------|
 | **👨‍💼 Admin** | `Admin1002` | `root12` | Full system management |
 
+
 ## 🚀 Installation
 
 1. **Clone & Setup**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ridhanofficial/Exam-Hall-Seating-Arrangement-System
    cd exam-seating-system
    ```
 
@@ -60,10 +63,12 @@
 
 4. **Install FPDF** - Run `yoursite.com/install_fpdf.php` or download from [fpdf.org](http://www.fpdf.org)
 
+
 ## 📖 Usage
 
 **Admin**: Login → Manage students/rooms → Allocate seats → Generate reports  
 **Student**: Login → View seat assignment → Check schedule
+
 
 ## 🔒 Security
 
