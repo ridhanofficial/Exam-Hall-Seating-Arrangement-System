@@ -284,7 +284,6 @@ sudo chown www-data:www-data /var/lib/php/sessions
 ```
 
 ### 🔐 Administrative Access
-### 🔐 Administrative Access
 
 <div align="center">
 
